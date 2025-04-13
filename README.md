@@ -1,2 +1,3 @@
 # Python-con-Ivan
-Compoartida con Ivan Cernadas
+Compartida con Ivan Cernadas
+Aquí documentaremos los avances de Python y Java
